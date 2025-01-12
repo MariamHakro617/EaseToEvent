@@ -16,5 +16,5 @@ Search & Filters: Advanced search and filtering options for users.
 Frontend: React Native
 Backend: Node.js with Express.js
 Authentication: JSON Web Tokens (JWT)
-API Integration: RESTful APIs for location smooth communication between frontend and backend
+API Integration: RESTful APIs for location smooth communication between frontend and backend.
 
